@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1557950164 source:c:\users\sashaoriana\documents\utn2019\laboratorio2\laboratorio\fantasma_2\fantasma.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"fantasma.h"
+
+1557383405 c:\users\sashaoriana\documents\utn2019\laboratorio2\laboratorio\fantasma_2\utn.h
+
+1557950075 c:\users\sashaoriana\documents\utn2019\laboratorio2\laboratorio\fantasma_2\fantasma.h
+
+1557950194 source:c:\users\sashaoriana\documents\utn2019\laboratorio2\laboratorio\fantasma_2\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"fantasma.h"
+	"utn.h"
+
+1557865853 source:c:\users\sashaoriana\documents\utn2019\laboratorio2\laboratorio\fantasma_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
